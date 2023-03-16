@@ -10,9 +10,14 @@ Rachel graduated from [Avila University]() in 2009 with a degree in graphics des
 
 ## Rachel's Family
 ![Family Photo](family.jpg)
-Rachel's family is the driving factor for her pursuit of a career in information technology.
+Rachel's family is the driving force behind her pursuit of a career in information technology.
 
-Rachel's son, Jonathan, is an avid video game player - a passion he inherited from his mom. 
+![Rachel and Son](rachelandson.jpg)
+Rachel's son, Jonathan, is an avid video game player - a passion he inherited from his mom. Together they enjoy:
+
+- Fortnite
+- Legend of Zelda
+- Pokemon
 
 ### Rachel's Hobbies
 
