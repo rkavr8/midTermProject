@@ -78,6 +78,8 @@ else:
 
 ### Scholarship Calculator
 
+The following Python program takes user input and assists in determine scholarship eligiblity. 
+
 ```
 """
 This program assists students in estimating scholarship eligiblity.
@@ -123,6 +125,8 @@ else:
 ```
 
 ### Fizz Buzz
+
+The following is an example of the Fizz Buzz programming solution. 
 
 ```
 <!DOCTYPE html>
